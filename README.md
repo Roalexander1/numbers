@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Trey Alexander
+2. Student ID: 2374235
+3. Email: Roalexander@chapman.edu
+4. Class: CPSC-298-01
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -16,8 +16,10 @@ A bash script named “numbers.sh” that will
 2. numbers-input
 
 ## Known Errors 
+None
 
 ## References
+The class notes
 
 ## Instructions
 To run the script with input from the included numbers-input file:
