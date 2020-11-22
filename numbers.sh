@@ -1,7 +1,9 @@
 #! /bin/bash
 # numbers.sh
-echo "Enter a number: "
+#Trey Alexander
+echo "Enter a positve number: "
 read NUMBERS
+echo "$NUMBERS"
 N="0"
 
 while [ $N -lt $NUMBERS ]
